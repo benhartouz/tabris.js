@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<widget id="devsmarty.com" version="0.1.0">
+  <name>TestApp</name>
+  <description>Example Tabris.js App</description>
+  <author email="benhartouzmohamed@gmail.com">Mohamed Ben hartouz</author>
+  <preference name="EnableDeveloperConsole" value="true"/>
+  <content src="app/package.json"/>
+</widget>

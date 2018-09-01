@@ -1,0 +1,17 @@
+{
+  "name": "testapp",
+  "version": "0.1.0",
+  "main": "src/app.js",
+  "private": true,
+  "scripts": {
+    "test": "eslint .",
+    "start": "tabris serve"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "tabris": "^2.6.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.3.0"
+  }
+}
