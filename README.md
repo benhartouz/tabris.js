@@ -1,2 +1,2 @@
 # tabris.js
-Tabris description 
+Simple, example application using tabris.js
